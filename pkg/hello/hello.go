@@ -1,6 +1,6 @@
 package hello 
 
 
-func New() {
+func New() string {
 	return "yo"
 }
